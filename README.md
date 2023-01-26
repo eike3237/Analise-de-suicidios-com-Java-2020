@@ -13,6 +13,7 @@ Algoritmo inicial para desenvolvimento:
 ![APS](https://user-images.githubusercontent.com/54451865/214949348-08b9b779-51e6-412f-bc3d-ddc9c5880147.png)
 
 Exemplo dos Dados brutos:
+
 ![image](https://user-images.githubusercontent.com/54451865/214949576-a082c8dc-1b0d-4df4-8d58-0f256fe6084f.png)
 
 Resultados gerados pelo programa:
