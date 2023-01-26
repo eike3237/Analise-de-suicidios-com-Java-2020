@@ -7,6 +7,7 @@ O projeto tem como foco análise de dados referente a suicídios no estado de S�
 Desenvolvido para fins acadêmicos
 
 Histograma gerado pelo programa:
+
 ![histogram](https://user-images.githubusercontent.com/54451865/214949114-aa61fb50-0066-4b2f-b3f9-7a91fb571b34.PNG)
 
 Algoritmo inicial para desenvolvimento:
